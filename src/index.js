@@ -10,7 +10,6 @@ const App = () => {
     <div className="ui container comments">
       <ApprovalCard>
         <div>
-          {" "}
           <h4>Are you sure you want this?</h4>
         </div>
       </ApprovalCard>
